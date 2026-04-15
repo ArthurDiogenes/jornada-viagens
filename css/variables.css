@@ -1,11 +1,18 @@
 :root {
-    --background-primary-color: #FFFFFF;
-    --background-secondady-color: #F5F5F5;
-    --background-tertiary-color: #000000;
 
-    --button-primary-color: #B81515;
-    --button-secondary-color: #8F0101;
+    /* Color variables */
+    --background-color-primary: #FFFFFF;
+    --background-color-secondady: #F5F5F5;
+    --background-color-tertiary: #000000;
 
-    --text-primary-color: #222222;
-    --text-secondady-color: #FFFFFF;
+    --button-color-primary: #B81515;
+    --button-color-secondary: #8F0101;
+
+    --text-color-primary: #222222;
+    --text-color-secondady: #FFFFFF;
+
+    /* Font Variables */
+    --font-weight-title: 700;
+    --font-weight-menu: 500;
+    --font-weight-text: 400;
 }
