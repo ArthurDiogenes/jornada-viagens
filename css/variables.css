@@ -1,18 +1,17 @@
 :root {
+  /* Color variables */
+  --background-color-primary: #ffffff;
+  --background-color-secondady: #f5f5f5;
+  --background-color-tertiary: #000000;
 
-    /* Color variables */
-    --background-color-primary: #FFFFFF;
-    --background-color-secondady: #F5F5F5;
-    --background-color-tertiary: #000000;
+  --button-color-primary: #b81515;
+  --button-color-secondary: #8f0101;
 
-    --button-color-primary: #B81515;
-    --button-color-secondary: #8F0101;
+  --text-color-primary: #222222;
+  --text-color-secondady: #ffffff;
 
-    --text-color-primary: #222222;
-    --text-color-secondady: #FFFFFF;
-
-    /* Font Variables */
-    --font-weight-title: 700;
-    --font-weight-menu: 500;
-    --font-weight-text: 400;
+  /* Font Variables */
+  --font-weight-title: 700;
+  --font-weight-menu: 500;
+  --font-weight-text: 400;
 }
